@@ -1,0 +1,1 @@
+print('starting of professional class : day 2')
